@@ -1,0 +1,32 @@
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.exe
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.pdb
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Form1.resources
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Properties.Resources.resources
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.exe
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.pdb
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Giriş.resources
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Yönetici.resources
+E:\1 Github\2 Akademi\Form\13 Kod-H CSharp Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.exe
+E:\1 Github\2 Akademi\Form\13 Kod-H CSharp Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.pdb
+E:\1 Github\2 Akademi\Form\13 Kod-H CSharp Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.exe
+E:\1 Github\2 Akademi\Form\13 Kod-H CSharp Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.pdb
+E:\1 Github\2 Akademi\Form\13 Kod-H CSharp Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csprojResolveAssemblyReference.cache
+E:\1 Github\2 Akademi\Form\13 Kod-H CSharp Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Form1.resources
+E:\1 Github\2 Akademi\Form\13 Kod-H CSharp Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Giriş.resources
+E:\1 Github\2 Akademi\Form\13 Kod-H CSharp Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Properties.Resources.resources
+E:\1 Github\2 Akademi\Form\13 Kod-H CSharp Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Yönetici.resources
+E:\1 Github\2 Akademi\Form\13 Kod-H CSharp Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\91 Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.exe
+E:\03 - Yazılım\05 - Büyük Projeler\91 Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\91 Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.exe
+E:\03 - Yazılım\05 - Büyük Projeler\91 Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\91 Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\91 Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\91 Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Giriş.resources
+E:\03 - Yazılım\05 - Büyük Projeler\91 Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\91 Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Yönetici.resources
+E:\03 - Yazılım\05 - Büyük Projeler\91 Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csproj.GenerateResource.Cache
+G:\03 Cloud\04 - Github - Akademi\01 - C# Form Projeleri\113 - Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.exe
+G:\03 Cloud\04 - Github - Akademi\01 - C# Form Projeleri\113 - Bankamatik Sistemi V5.0\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.pdb
